@@ -1,0 +1,15 @@
+{
+  "name": "Vivify",
+  "description": "Vivify Port from Axolotl, Built and Fixed By Braxed - visual-only note replacement fallback\nPut mod in  here cus why not im lomjk btw\nTHIS IS NOT MINE",
+  "id": "vivify",
+  "version": "0.4.11",
+  "author": "Braxed",
+  "authorIcon": null,
+  "modloader": "Scotland2",
+  "download": "https://github.com/rbatteries1-design/Vivify-Quest-Port/releases/download/Vivify8/Vivify2.qmod",
+  "dependencies": [],
+  "source": "https://github.com/rbatteries1-design/Vivify-Quest-Port/",
+  "cover": null,
+  "funding": [],
+  "website": "https://github.com/rbatteries1-design/Vivify-Quest-Port/"
+}
